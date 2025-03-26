@@ -1,14 +1,16 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=red&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 ##  👨🏻‍💻 Kaike Sousa
 `Front-End developer`
 
-<div style="display: inline_block"><br>
-Me chamo Kaike Correia de Sousa, tenho 17 anos e sou natural de São Paulo. Conclui o ensino médio no Liceu José de Alencar, no ano de 2024. Atualmente, estou cursando Engenharia de Software na Fiap. Sou apaixonado por tecnologia e inovação, dessa forma, meu principal objetivo na área de programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores na área.
+<div  align="center" style="display: inline_block"><br>
+Me chamo Kaike Correia de Sousa, tenho 17 anos e sou estudante de Engenharia de Software na Faculdade da FIAP. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por tecnologia e inovação, dessa forma, meu principal objetivo na área de programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores na área.
 </div>
 
   ## My Stack
-  <div>
-  <img align="right" alt="figurinha" height="105" width="100" src="https://github.com/user-attachments/assets/e84d0811-7ea0-47fa-96da-9ae5a4a127c1">
-  </div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Kaike-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
