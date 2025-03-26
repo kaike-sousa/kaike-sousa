@@ -12,7 +12,7 @@ Me chamo Kaike Correia de Sousa, tenho 17 anos e sou estudante de Engenharia de 
   
   ##
   
-   <img align="center" alt="Kaike-Python" src="https://github.com/user-attachments/assets/8325dfa3-a06d-4687-ac2e-bb6fe066fc81">
+   <img align="center" alt="Kaike-Python" height="180" width="180" src="https://github.com/user-attachments/assets/198bd58f-84cc-4549-8d10-d0530e99f09e">
 
    ##
    
