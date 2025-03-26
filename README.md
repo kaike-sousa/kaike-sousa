@@ -9,6 +9,13 @@
 
 <div  align="center" style="display: inline_block"><br>
 Me chamo Kaike Correia de Sousa, tenho 17 anos e sou estudante de Engenharia de Software na Faculdade da FIAP. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por tecnologia e inovação, dessa forma, meu principal objetivo na área de programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores na área.
+  
+  ##
+  
+   <img align="center" alt="Kaike-Python" src="https://github.com/user-attachments/assets/8325dfa3-a06d-4687-ac2e-bb6fe066fc81">
+
+   ##
+   
 </div>
 
   ## My Stack
