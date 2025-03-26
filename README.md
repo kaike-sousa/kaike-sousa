@@ -1,5 +1,5 @@
 ##  👨🏻‍💻 Kaike Sousa
-`Desenvolvedor de Front-End`
+`Front-End developer`
 
 <div style="display: inline_block"><br>
 Me chamo Kaike Correia de Sousa, tenho 17 anos e sou natural de São Paulo. Conclui o ensino médio no Liceu José de Alencar, no ano de 2024. Atualmente, estou cursando Engenharia de Software na Fiap. Sou apaixonado por tecnologia e inovação, dessa forma, meu principal objetivo na área de programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores na área.
