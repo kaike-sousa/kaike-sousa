@@ -5,7 +5,7 @@
 Me chamo Kaike Correia de Sousa, tenho 17 anos e sou natural de São Paulo. Conclui o ensino médio no Liceu José de Alencar, no ano de 2024. Atualmente, estou cursando Engenharia de Software na Fiap. Sou apaixonado por tecnologia e inovação, dessa forma, meu principal objetivo na área de programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores na área.
 </div>
 
-  ## Linguagens e Tecnologias
+  ## My Stack
   <div>
   <img align="right" alt="figurinha" height="105" width="100" src="https://github.com/user-attachments/assets/e84d0811-7ea0-47fa-96da-9ae5a4a127c1">
   </div>
@@ -20,7 +20,7 @@ Me chamo Kaike Correia de Sousa, tenho 17 anos e sou natural de São Paulo. Conc
 </div>
 
  ##
- 
+   ## Connect with me
 <div> 
   
 <a href="https://www.instagram.com/kaikesousa__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
