@@ -8,7 +8,7 @@
 `Front-End developer`
 
 <div  align="center" style="display: inline_block"><br>
-Me chamo Kaike Correia de Sousa, tenho 17 anos e sou estudante de Engenharia de Software na Faculdade da FIAP. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por tecnologia e inovação, dessa forma, meu principal objetivo na área de programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores na área.
+Me chamo Kaike Correia de Sousa, tenho 18 anos e sou estudante de Engenharia de Software na FIAP. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Sou apaixonado por tecnologia e inovação e meu principal objetivo na programação é criar e otimizar soluções que façam a diferença, explorando novas tendências e desenvolvendo projetos inovadores, especialmente nas áreas de IoT, desenvolvimento web e automação.
   
   ##
   
