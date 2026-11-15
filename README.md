@@ -1,48 +1,44 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Back-End+Developer+%40+Aldak+Tecnologia;Java+%E2%80%A2+Python+%E2%80%A2+IoT+%E2%80%A2+Redes;Founder+%40+KOUT+Streetwear" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E63946&center=true&vCenter=true&random=false&width=600&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;Back-End+Developer+%40+Aldak+Tecnologia;Java+%E2%80%A2+Python+%E2%80%A2+IoT+%E2%80%A2+Redes;Industrial+Monitoring+with+IoT" alt="Typing SVG">
   </a>
 </div>
 
-## 👨🏻‍💻 Kaike Sousa
+## Kaike Sousa
 
 `Back-End Developer` · `IoT` · `Redes` · `Web`
 
 <div align="center"><br>
 
-Me chamo **Kaike Correia de Sousa**, sou **desenvolvedor Back-End na [Aldak Tecnologia](#)** e estudante de **Engenharia de Software na FIAP**.
-No dia a dia atuo com **redes, IoT, Java e Python**, e também desenvolvo sites e plataformas web completas — do firmware no ESP32 até a API e o banco de dados.
+Me chamo **Kaike Correia de Sousa**, sou **Estagiário Superior no setor de Soluções da Aldak Tecnologia** e estudante de **Engenharia de Software na FIAP**.
+Há mais de um ano desenvolvo soluções de **monitoramento industrial através de IoT**, atuando com **redes, Java e Python** — do firmware no ESP32 até a API, o banco de dados e o dashboard.
 
-Sou fundador da **KOUT**, marca brasileira de streetwear, onde construí a loja do zero. Gosto de criar soluções que saem do papel e rodam em produção, especialmente onde hardware, dados e web se encontram.
-
-<br>
-
-<img align="center" alt="Kaike-Python" height="180" width="180" src="https://github.com/user-attachments/assets/198bd58f-84cc-4549-8d10-d0530e99f09e">
+Também desenvolvo sites e plataformas web completas. Gosto de criar soluções que saem do papel e rodam em produção, especialmente onde hardware, dados e web se encontram.
 
 </div>
 
 ---
 
-## 🧭 Sobre mim
+## Sobre mim
 
 ```yaml
 nome:      Kaike Correia de Sousa
-cargo:     Back-End Developer @ Aldak Tecnologia
+cargo:     Estagiário Superior — Soluções @ Aldak Tecnologia
 formação:  Engenharia de Software — FIAP
 foco:      [Back-End, IoT, Redes, Desenvolvimento Web]
 hardware:  [ESP32, ESP32-C3, ESP-NOW, sensores I2C/I2S]
-extra:     Founder @ KOUT Streetwear 🧢
+experiência: +1 ano em monitoramento industrial com IoT
 ```
 
-- 🔌 Construo sistemas IoT ponta a ponta: sensor → gateway → API → dashboard
-- ☕ Back-end com **Java** e **Python**, APIs com **Node/Express**
-- 🌐 Redes, comunicação entre dispositivos e infraestrutura
-- 🛒 E-commerce com **Next.js + Supabase**, pagamentos e integrações
-- 🤖 Integração de IA em pipelines de dados (Whisper + GPT)
+- Construo sistemas IoT ponta a ponta: sensor → gateway → API → dashboard
+- Back-end com **Java** e **Python**, APIs com **Node/Express**
+- Redes, comunicação entre dispositivos e infraestrutura
+- Plataformas web com **Next.js + Supabase**, pagamentos e integrações
+- Integração de IA em pipelines de dados (Whisper + GPT)
 
 ---
 
-## 🛠️ My Stack
+## My Stack
 
 <div align="center">
 
@@ -66,24 +62,20 @@ extra:     Founder @ KOUT Streetwear 🧢
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🏭 **IOTRACK** | SaaS de manutenção e monitoramento industrial (CMMS): ocorrências de máquinas, estoque de peças, treinamentos e assinaturas | `Next.js` `Supabase` `Stripe` |
-| 📳 **IOTRACK Vibration** | Monitor de vibração com arquitetura sensor + gateway: sensores a bateria via ESP-NOW com deep sleep, gateway Wi-Fi enviando ao Supabase, OTA e buffer em SD | `ESP32` `C++` `ESP-NOW` `MPU6050` |
-| 🎙️ **[Sensor Synd](https://github.com/kaike-sousa/synd-backend)** | Dispositivo que grava reuniões, transcreve com Whisper, extrai insights com GPT e salva via API no MongoDB Atlas | `ESP32` `Node/Express` `MongoDB` `OpenAI` |
-| 📊 **Synd (FIAP × TOTVS)** | Plataforma de ciclos de reuniões comerciais com insights de IA e validação por analistas — modelagem DDD e banco relacional | `Java` `DDD` `SQL` |
-| 🧢 **KOUT Store** | E-commerce da minha marca: checkout com Mercado Pago (cartão, Pix, boleto), frete via Frenet, cupons e painel admin | `Next.js` `Supabase` `Mercado Pago` |
+| **IOTRACK** | SaaS de manutenção e monitoramento industrial (CMMS): ocorrências de máquinas, estoque de peças, treinamentos e assinaturas | `Next.js` `Supabase` `Stripe` |
+| **IOTRACK Vibration** | Monitor de vibração com arquitetura sensor + gateway: sensores a bateria via ESP-NOW com deep sleep, gateway Wi-Fi enviando ao Supabase, OTA e buffer em SD | `ESP32` `C++` `ESP-NOW` `MPU6050` |
+| **[Sensor Synd](https://github.com/kaike-sousa/synd-backend)** | Dispositivo que grava reuniões, transcreve com Whisper, extrai insights com GPT e salva via API no MongoDB Atlas | `ESP32` `Node/Express` `MongoDB` `OpenAI` |
+| **Synd (FIAP × TOTVS)** | Plataforma de ciclos de reuniões comerciais com insights de IA e validação por analistas — modelagem DDD e banco relacional | `Java` `DDD` `SQL` |
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaike-sousa&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=c9d1d9&locale=pt-br" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaike-sousa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=c9d1d9&locale=pt-br" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=kaike-sousa&theme=radical&hide_border=true&background=0d1117&ring=E63946&fire=E63946&currStreakLabel=E63946&locale=pt_BR" alt="GitHub streak" />
 
@@ -91,13 +83,12 @@ extra:     Founder @ KOUT Streetwear 🧢
 
 ---
 
-## 🤝 Connect with me
+## Connect with me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/kaike-correia-de-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dev-kaike-sousa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:kaike.cyw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/kaikesousa__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 </div>
 
